@@ -2,15 +2,16 @@
 
 本笔记基于Youtuber—电丸科技AK的[科学上网科普视频](https://www.youtube.com/watch?v=XKZM\_AjCUr0\&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)。去年这个时间，我遇见了AK的视频，当时我还没有学习计算机网络的相关知识，因此看完11个视频，云里雾里，根本没有多少印象。今天一时兴起，花了一整天的时间，从头到尾再次回顾了一遍，与此同时也记了一些笔记，方便自己进行后续查阅。
 
+### 频道推荐
 
+* [电丸科技AK—硬核翻墙/科学上网系列](https://www.youtube.com/watch?v=XKZM\_AjCUr0\&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)
+* [不良林—节点搭建系列教程](https://www.youtube.com/playlist?list=PL5TbbtexT8T3d\_7UX2aSFhoMYk-cl4kf4)
 
 ### 讨论
 
 [大家觉得以目前的情况，完全不依赖他人帮助，自学稳定翻墙的可能性有多大？](https://t.me/opencfdchannel/3500)
 
 <figure><img src=".gitbook/assets/QQ截图20230107203223.jpg" alt=""><figcaption><p>论GFW存在的必要性</p></figcaption></figure>
-
-
 
 ### 箴言
 
