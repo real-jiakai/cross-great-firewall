@@ -5,10 +5,10 @@
 ### 机场
 
 * 奶昔机场（听别人说是机场界的顶流）
-* STC-SPADES（个人在用的机场，使用体验不错）
+* STC-SPADES（个人在用的机场，存在审计规则）
 * wgetcloud（个人以前用的机场，审计规则较多）
 
 ### VPS
 
 * 搬瓦工CN2 GIA
-* AWS lightsail
+* AWS Lightsail
