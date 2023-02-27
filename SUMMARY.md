@@ -14,3 +14,4 @@
 * [👋 内网线路](nei-wang-xian-lu.md)
 * [😡 为什么机场会跑路？](wei-shi-mo-ji-chang-hui-pao-lu.md)
 * [🥳 VPS、机场推荐](vps-ji-chang-tui-jian.md)
+* [😍 xui自建](xui-zi-jian.md)
