@@ -50,3 +50,5 @@
 17.约束自己的行为，永远是有必要的。
 
 18.如果你指望白嫖或者是少花钱，很多情况下你就需要拿折腾的时间来换。
+
+19.Across the Great Wall, we can reach every corner of the world.
