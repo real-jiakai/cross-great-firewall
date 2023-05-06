@@ -14,5 +14,4 @@
 * [👋 内网线路](nei-wang-xian-lu.md)
 * [😡 为什么机场会跑路？](wei-shi-mo-ji-chang-hui-pao-lu.md)
 * [🥳 VPS、机场推荐](vps-ji-chang-tui-jian.md)
-* [1⃣ v2ray学习笔记](v2ray-xue-xi-bi-ji.md)
-* [2⃣ 局域网共享科学上网方式](ju-yu-wang-gong-xiang-ke-xue-shang-wang-fang-shi.md)
+* [😎 局域网共享科学上网方式](ju-yu-wang-gong-xiang-ke-xue-shang-wang-fang-shi.md)
