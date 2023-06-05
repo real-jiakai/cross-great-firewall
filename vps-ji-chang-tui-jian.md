@@ -20,3 +20,7 @@
 * 搬瓦工CN2 GIA
 * AWS Lightsail
 * ......
+
+### 机场 or VPS？
+
+[Project X 【第 1 章】 小小白白话文](https://xtls.github.io/document/level-0/ch01-preface.html#\_1-1-%E8%BF%99%E7%AF%87%E6%96%87%E6%A1%A3%E6%98%AF%E5%86%99%E7%BB%99%E8%B0%81%E7%9A%84)
