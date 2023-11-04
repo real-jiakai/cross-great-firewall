@@ -17,7 +17,7 @@
 
 VPN从绝对用户基数上说，是主流。
 
-![OSI-7层模型及相关翻墙软件所在的层级](../.gitbook/assets/image.png)
+![OSI-7层模型及相关翻墙软件所在的层级](<../.gitbook/assets/image (3).png>)
 
 对于GFW而言，现在的VPN相当于是光着屁股在墙的脸上摩擦。能用是因为还没被封或者刚刚换了IP，不代表你应该用下去。强烈推荐学习使用Socks5代理的方式【即Shadowsocks、SSR、V2ray这类工具】。
 

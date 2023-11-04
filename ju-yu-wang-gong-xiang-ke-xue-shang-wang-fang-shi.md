@@ -1,6 +1,6 @@
 # 😎 局域网共享科学上网方式
 
-<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 1、共享模式及对应设备
 
