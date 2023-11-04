@@ -1,6 +1,6 @@
 # 😻 clash系列备份
 
-clash for windows在2023年的11月2号删除后，第二天，clash内核删库、clash meta内核归档、clash verge归档、clashx删库、clash for andriod删库、clash meta for andriod删库......
+clash for windows在2023年的11月2号删除后，第二天，clash内核删库、clash meta内核归档、clash verge归档、clashx删库、clash for andriod删库、clash meta for andriod归档......
 
 ### [google drive备份](https://drive.google.com/drive/folders/1iAXVXOSYvWlGM4Hod2nlyNwCxmnBjqAb?usp=sharing)
 
