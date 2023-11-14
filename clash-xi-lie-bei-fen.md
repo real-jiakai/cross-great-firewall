@@ -4,11 +4,11 @@ clash for windows在2023年的11月2号删除后，第二天，clash内核删库
 
 ### [google drive备份](https://drive.google.com/drive/folders/1iAXVXOSYvWlGM4Hod2nlyNwCxmnBjqAb?usp=sharing)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [onedrive备份](https://1drv.ms/f/s!AkOlsYD5Bd9Nklmj0oTmMX3C1ggS?e=g5Za5F)
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [tg频道备份](https://t.me/crossthegfw)
 

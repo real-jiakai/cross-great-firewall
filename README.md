@@ -1,7 +1,5 @@
 # 😇 卷首语
 
-
-
 本笔记基于Youtuber—电丸科技AK的[科学上网科普视频](https://www.youtube.com/watch?v=XKZM\_AjCUr0\&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)。去年这个时间，我遇见了AK的视频，当时我还没有学习计算机网络的相关知识，因此看完11个视频，云里雾里，根本没有多少印象。今天一时兴起，花了一整天的时间，从头到尾再次回顾了一遍，与此同时也记了一些笔记，方便自己进行后续查阅。
 
 ### 频道推荐
@@ -57,3 +55,7 @@
 18.如果你指望白嫖或者是少花钱，很多情况下你就需要拿折腾的时间来换。
 
 19.Across the Great Wall, we can reach every corner of the world.
+
+20\.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
