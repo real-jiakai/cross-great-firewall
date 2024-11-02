@@ -5,9 +5,6 @@
 ### 频道推荐
 
 * [电丸科技AK—硬核翻墙/科学上网系列](https://www.youtube.com/watch?v=XKZM\_AjCUr0\&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)
-
-因ak大神于2023年5月30日隐藏了这个系列的视频，后续大家可以移步[peertube镜像站点](https://video.ploud.jp/c/ak/videos)观看，或者来我的[tg频道](https://t.me/crossthegfw)观看。
-
 * [不良林—节点搭建系列教程](https://www.youtube.com/playlist?list=PL5TbbtexT8T3d\_7UX2aSFhoMYk-cl4kf4)
 
 ### 讨论
